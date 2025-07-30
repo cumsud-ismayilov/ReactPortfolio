@@ -1,7 +1,9 @@
+import HeroBackground from "./components/Herobackground";
+
 function App() {
    return (
     <>
-      <h1>Salam</h1>
+      <HeroBackground/>
     </>
   );
 }

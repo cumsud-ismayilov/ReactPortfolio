@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+
+/* globals.css */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+     background: #2d1950; /* Tailwind gray-300 */
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(178,121,216,.959); /* Tailwind blue-500 */
+      border-radius: 12px; /* fully rounded */
+   /* track rəngi ilə border */
+}
