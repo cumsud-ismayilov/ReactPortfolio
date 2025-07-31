@@ -1,10 +1,10 @@
-import React from 'react'
+import AboutSec from '../../components/aboutSec/AboutSec'
 
 function about() {
   return (
-    <div>
-      about page
-    </div>
+    <>
+     <AboutSec/>
+    </>
   )
 }
 

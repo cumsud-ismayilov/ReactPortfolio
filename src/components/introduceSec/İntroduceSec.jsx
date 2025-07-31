@@ -1,5 +1,3 @@
-import React from "react";
-
 function İntroduceSec() {
   return (
     <section className="max-w-[1320px] w-[90%] mx-auto mt-[8rem]">
